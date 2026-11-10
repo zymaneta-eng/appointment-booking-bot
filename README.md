@@ -84,7 +84,13 @@ Measured on live service salon deployment over 90 days:
 +------------------------------------------------------------------------------------+
 ```
 
-*(Visual UI screenshots will be added to the `/screenshots` gallery).*
+![документація API](screenshots/03_api_docs.png)
+
+![підсумок тестів](screenshots/01_tests.png)
+
+![довідка CLI](screenshots/04_cli_1.png)
+
+Усі скріншоти (5): [screenshots/](screenshots/README.md)
 
 ---
 
